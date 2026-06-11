@@ -1,2 +1,3 @@
 # Blender
-Showcase of Blender Models
+A showcase of my Blender Models
+
